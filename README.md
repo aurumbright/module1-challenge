@@ -7,6 +7,8 @@ The following image shows the web application's current status:
 
 ![deployed-page](./materials/assets/images/deployed-page.png)
 
+See the ![deployed page here](https://aurumbright.github.io/module1-challenge/).
+
 ### Project Purpose
 
 This code refactoring was done to clean up the existing code of Horiseon's homepage and make it easier for future devs maintaining the website to find, edit, or optimize aspects of the page design. 

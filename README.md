@@ -7,7 +7,7 @@ The following image shows the web application's current status:
 
 ![deployed-page](./materials/assets/images/deployed-page.png)
 
-See the ![deployed page here](https://aurumbright.github.io/module1-challenge/).
+See the [deployed page here](https://aurumbright.github.io/module1-challenge/).
 
 ### Project Purpose
 
